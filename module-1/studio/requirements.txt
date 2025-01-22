@@ -1,5 +1,6 @@
 langgraph
 langchain-core
 langchain-community
-langchain-openai
+# langchain-openai
+langchain_ollama
 
