@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cyanheads/pubmed-mcp-server": "^1.4.5"
+  }
+}

@@ -11,4 +11,4 @@ langchain-tavily
 wikipedia
 trustcall
 langgraph-cli[inmem]
-
+rich
