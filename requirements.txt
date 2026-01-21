@@ -11,4 +11,5 @@ langchain-tavily
 wikipedia
 trustcall
 langgraph-cli[inmem]
+langchain-mcp-adapters
 rich
